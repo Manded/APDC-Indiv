@@ -1,0 +1,16 @@
+pt/unl/fct/apdc/utils/RegisterData.class
+pt/unl/fct/apdc/resources/RegisterResource.class
+pt/unl/fct/apdc/utils/ChangeStateData.class
+pt/unl/fct/apdc/utils/AuthData.class
+pt/unl/fct/apdc/resources/InfoResource.class
+pt/unl/fct/apdc/utils/RoleChangeData.class
+pt/unl/fct/apdc/utils/ChangeAttrData.class
+pt/unl/fct/apdc/resources/RemoveResource.class
+pt/unl/fct/apdc/utils/RemoveAccountData.class
+pt/unl/fct/apdc/resources/LoginResource.class
+pt/unl/fct/apdc/utils/LoginData.class
+pt/unl/fct/apdc/utils/AuthToken.class
+pt/unl/fct/apdc/resources/LogoutResource.class
+pt/unl/fct/apdc/utils/ChangeRoleData.class
+pt/unl/fct/apdc/filters/AdditionalResponseHeadersFilter.class
+pt/unl/fct/apdc/resources/ChangeProfileResource.class

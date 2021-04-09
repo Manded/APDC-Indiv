@@ -1,0 +1,16 @@
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/utils/RoleChangeData.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/utils/ChangeStateData.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/resources/LogoutResource.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/resources/LoginResource.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/utils/ChangeRoleData.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/resources/ChangeProfileResource.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/resources/RegisterResource.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/utils/AuthData.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/filters/AdditionalResponseHeadersFilter.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/utils/RemoveAccountData.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/resources/RemoveResource.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/utils/AuthToken.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/utils/LoginData.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/resources/InfoResource.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/utils/RegisterData.java
+/Users/franciscopisco/eclipse-workspace/APDC-Indiv/src/main/java/pt/unl/fct/apdc/utils/ChangeAttrData.java
